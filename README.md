@@ -8,11 +8,11 @@
 
 <img src="./assets/healthlens-card.svg" width="100%" alt="HealthLens" />
 
-<br>
+<br><br>
 
 <img src="./assets/stack.svg" width="100%" alt="Tech stack" />
 
-<br><br><br>
+<br><br>
 
 <div align="center">
 
