@@ -1,61 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="180" viewBox="0 0 820 180">
-  <!-- Background -->
-  <rect width="820" height="180" fill="#0B0E14"/>
-
-  <!-- Name — Times New Roman / Georgia serif -->
-  <text x="48" y="66"
-    font-family="Georgia, 'Times New Roman', Times, serif"
-    font-size="40" font-weight="700" fill="#E2E8F0" letter-spacing="-0.5">Yago Calomino</text>
-
-  <!-- Teal accent line -->
-  <rect x="48" y="78" width="196" height="2.5" rx="1.25" fill="#2DD4BF"/>
-
-  <!-- Role -->
-  <text x="48" y="106"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="15" fill="#8892A4" letter-spacing="0.3">Data Engineer &amp; BI Specialist</text>
-
-  <!-- Location dot -->
-  <circle cx="55" cy="125" r="3" fill="#2DD4BF" opacity="0.65"/>
-
-  <!-- Location text -->
-  <text x="66" y="129"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="13" fill="#3D4F63">Rio de Janeiro · Brazil</text>
-
-  <!-- Cert chip 1: Databricks Certified -->
-  <rect x="48" y="146" width="152" height="24" rx="12" fill="#13171F" stroke="#2DD4BF" stroke-width="0.8" stroke-opacity="0.3"/>
-  <text x="124" y="162" text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="11" fill="#2DD4BF">Databricks Certified</text>
-
-  <!-- Cert chip 2: dbt Certified -->
-  <rect x="208" y="146" width="106" height="24" rx="12" fill="#13171F" stroke="#2DD4BF" stroke-width="0.8" stroke-opacity="0.3"/>
-  <text x="261" y="162" text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="11" fill="#2DD4BF">dbt Certified</text>
-
-  <!-- Cert chip 3: Pós-grad -->
-  <rect x="322" y="146" width="170" height="24" rx="12" fill="#13171F" stroke="#2DD4BF" stroke-width="0.8" stroke-opacity="0.3"/>
-  <text x="407" y="162" text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-    font-size="11" fill="#2DD4BF">Pós-grad. Eng. de Dados</text>
-
-  <!-- Pipeline decoration — nodes -->
-  <circle cx="626" cy="80" r="9" fill="#13171F" stroke="#2DD4BF" stroke-width="1.5"/>
-  <line x1="635" y1="80" x2="697" y2="80" stroke="#2DD4BF" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <circle cx="706" cy="80" r="9" fill="#13171F" stroke="#2DD4BF" stroke-width="1.5" opacity="0.55"/>
-  <line x1="715" y1="80" x2="777" y2="80" stroke="#2DD4BF" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
-  <circle cx="786" cy="80" r="9" fill="#13171F" stroke="#2DD4BF" stroke-width="1.5" opacity="0.25"/>
-
-  <!-- Pipeline labels -->
-  <text x="626" y="101" text-anchor="middle"
-    font-family="'SFMono-Regular', Consolas, monospace"
-    font-size="10" fill="#2A3545" letter-spacing="0.5">ingest</text>
-  <text x="706" y="101" text-anchor="middle"
-    font-family="'SFMono-Regular', Consolas, monospace"
-    font-size="10" fill="#2A3545" letter-spacing="0.5">transform</text>
-  <text x="786" y="101" text-anchor="middle"
-    font-family="'SFMono-Regular', Consolas, monospace"
-    font-size="10" fill="#2A3545" letter-spacing="0.5">serve</text>
+<svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg" width="800" height="180">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#0D1622"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" fill="url(#bgGrad)"/>
+  <circle cx="700" cy="90" r="88" fill="none" stroke="#2DD4BF" stroke-width="1" opacity="0.07"/>
+  <circle cx="700" cy="90" r="60" fill="none" stroke="#2DD4BF" stroke-width="1" opacity="0.10"/>
+  <circle cx="700" cy="90" r="32" fill="#2DD4BF" opacity="0.04"/>
+  <circle cx="700" cy="90" r="6" fill="#2DD4BF" opacity="0.55"/>
+  <rect x="0" y="0" width="4" height="180" fill="url(#accentGrad)"/>
+  <text x="48" y="78" font-family="'Times New Roman', Times, Georgia, serif" font-size="50" font-weight="700" fill="#E2E8F0" letter-spacing="-0.5">Yago Calomino</text>
+  <text x="50" y="116" font-family="'Times New Roman', Times, Georgia, serif" font-size="16" font-weight="400" fill="#2DD4BF" letter-spacing="3.5">DATA ENGINEER  ·  BI SPECIALIST</text>
+  <text x="50" y="150" font-family="'Times New Roman', Times, Georgia, serif" font-size="14" fill="#64748B">Public health analytics · REST APIs · Real-time dashboards · Rio de Janeiro, BR</text>
 </svg>

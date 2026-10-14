@@ -35,8 +35,8 @@
   <a href="mailto:yagofaragecalomino@gmail.com">
     <img src="./assets/contact-email.svg" height="44" alt="Email" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yago.calomino/">
-    <img src="./assets/contact-instagram.svg" height="44" alt="Instagram" />
+  <a href="https://yagocalomino.github.io">
+    <img src="./assets/contact-portfolio.svg" height="44" alt="Portfolio" />
   </a>
 </p>
 
