@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0F1520"/><stop offset="100%" stop-color="#0B0E14"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#2DD4BF"/><stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#cardBg)"/>
+  <rect x="0" y="0" width="800" height="3" fill="url(#tealGrad)"/>
+  <rect x="0" y="0" width="220" height="200" fill="#0D1622" opacity="0.6"/>
+  <rect x="220" y="0" width="1" height="200" fill="#1E2530"/>
+  <polyline points="20,100 40,100 50,70 60,130 75,60 90,140 100,100 120,100 135,100 145,80 155,120 165,100 200,100" fill="none" stroke="#2DD4BF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+  <circle cx="165" cy="100" r="3" fill="#2DD4BF" opacity="0.8"/>
+  <circle cx="165" cy="100" r="7" fill="#2DD4BF" opacity="0.15"/>
+  <text x="110" y="150" font-family="'Times New Roman', Times, Georgia, serif" font-size="10" font-weight="700" fill="#2DD4BF" letter-spacing="2" text-anchor="middle">FEATURED PROJECT</text>
+  <text x="248" y="60" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" font-weight="700" fill="#E2E8F0">HealthLens</text>
+  <text x="248" y="92" font-family="'Times New Roman', Times, Georgia, serif" font-size="13" fill="#94A3B8">End-to-end public health analytics on Brazil's DataSUS —</text>
+  <text x="248" y="112" font-family="'Times New Roman', Times, Georgia, serif" font-size="13" fill="#94A3B8">mortality, hospitalizations, ARIMA forecasts, municipality clustering.</text>
+  <rect x="248" y="132" width="62" height="24" rx="4" fill="#1E2D3D"/>
+  <text x="279" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">Python</text>
+  <rect x="318" y="132" width="66" height="24" rx="4" fill="#1E2D3D"/>
+  <text x="351" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">DataSUS</text>
+  <rect x="392" y="132" width="56" height="24" rx="4" fill="#1E2D3D"/>
+  <text x="420" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">ARIMA</text>
+  <rect x="456" y="132" width="60" height="24" rx="4" fill="#1E2D3D"/>
+  <text x="486" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">FastAPI</text>
+  <rect x="524" y="132" width="66" height="24" rx="4" fill="#1E2D3D"/>
+  <text x="557" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">Streamlit</text>
+  <text x="248" y="183" font-family="'Times New Roman', Times, Georgia, serif" font-size="12" fill="#374151">github.com/YagoCalomino/HealthLens</text>
+</svg>
