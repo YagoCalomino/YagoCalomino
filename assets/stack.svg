@@ -15,7 +15,7 @@
   <rect x="31" y="154" width="96" height="28" rx="5" fill="#161D2C" stroke="#1E2D3D" stroke-width="1"/>
   <text x="79" y="173" font-family="'Times New Roman', Times, Georgia, serif" font-size="12" fill="#E2E8F0" text-anchor="middle">Power BI</text>
   <rect x="139" y="154" width="96" height="28" rx="5" fill="#161D2C" stroke="#1E2D3D" stroke-width="1"/>
-  <text x="187" y="173" font-family="'Times New Roman', Times, Georgia, serif" font-size="12" fill="#E2E8F0" text-anchor="middle">dbt</text>
+  <text x="187" y="173" font-family="'Times New Roman', Times, Georgia, serif" font-size="12" fill="#E2E8F0" text-anchor="middle">Airflow</text>
   <line x1="267" y1="50" x2="267" y2="196" stroke="#1E2530" stroke-width="1"/>
   <text x="400" y="62" font-family="'Times New Roman', Times, Georgia, serif" font-size="10" font-weight="700" fill="#64748B" letter-spacing="2" text-anchor="middle">BACKEND &amp; INFRA</text>
   <rect x="298" y="74" width="96" height="28" rx="5" fill="#161D2C" stroke="#1E2D3D" stroke-width="1"/>
@@ -43,5 +43,5 @@
   <rect x="565" y="154" width="96" height="28" rx="5" fill="#161D2C" stroke="#1E2D3D" stroke-width="1"/>
   <text x="613" y="173" font-family="'Times New Roman', Times, Georgia, serif" font-size="12" fill="#E2E8F0" text-anchor="middle">Git</text>
   <rect x="673" y="154" width="96" height="28" rx="5" fill="#161D2C" stroke="#2DD4BF" stroke-width="1"/>
-  <text x="721" y="173" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" font-weight="700" fill="#2DD4BF" text-anchor="middle">Databricks</text>
+  <text x="721" y="173" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" font-weight="700" fill="#2DD4BF" text-anchor="middle">Alembic</text>
 </svg>

@@ -27,6 +27,6 @@
   <rect x="456" y="132" width="60" height="24" rx="4" fill="#1E2D3D"/>
   <text x="486" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">FastAPI</text>
   <rect x="524" y="132" width="66" height="24" rx="4" fill="#1E2D3D"/>
-  <text x="557" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">Streamlit</text>
+  <text x="557" y="149" font-family="'Times New Roman', Times, Georgia, serif" font-size="11" fill="#2DD4BF" text-anchor="middle">React</text>
   <text x="248" y="183" font-family="'Times New Roman', Times, Georgia, serif" font-size="12" fill="#374151">github.com/YagoCalomino/HealthLens</text>
 </svg>
