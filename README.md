@@ -1,25 +1,22 @@
-<div align="center"><img src="./assets/header.svg" width="100%" alt="Yago Calomino" /></div>
+<div align="center"><img src="./assets/header.svg" width="100%" alt="Yago Calomino — Data & Analytics Engineer" /></div>
 
-<br><br>
+### Data & Analytics Engineer · Healthtech · Rio de Janeiro
 
-<img src="./assets/healthlens-card.svg" width="100%" alt="HealthLens" />
+SQL/BI work on production databases (PostgreSQL, Oracle, Firebird) at Medilab Sistemas,
+a healthcare software company. Postgraduate student in Data Engineering. I build
+pipelines that turn messy public-health data into dimensional models people can query.
 
-<br><br>
+**Featured: [HealthLens](https://github.com/YagoCalomino/HealthLens)** — ETL over Brazil's
+DataSUS microdata (SIM, SIH, SINAN: 13M+ notifications), PostgreSQL star schema,
+offline forecasting and clustering, FastAPI + React dashboard. [Live demo](https://health-lens-virid.vercel.app)
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack" />
+**In progress: FAERS pharmacovigilance pipeline** — Airflow + dbt + DuckDB, BigQuery as second target.
 
-<br><br>
+**Stack**
+- Data: SQL (PostgreSQL, Oracle, Firebird), Python, pandas, Power BI (DAX/Power Query)
+- Modeling: star schema, materialized views, Alembic migrations, query performance tuning
+- Serving: FastAPI, Docker, GitHub Actions CI
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YagoCalomino&theme=dark&background=0B0E14&border=1E2530&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=8892A4&sideLabels=8892A4&dates=374151" width="58%" alt="GitHub streak stats" /></div>
+**Certifications:** dbt Fundamentals (dbt Labs) · Databricks Fundamentals
 
-<br><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yagofaragecalomino/"><img src="./assets/contact-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:yagofaragecalomino@gmail.com"><img src="./assets/contact-email.svg" height="44" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://yagocalomino.github.io"><img src="./assets/contact-portfolio.svg" height="44" alt="Portfolio" /></a>
-</p>
-
-<br>
-
-<img src="./assets/footer.svg" width="100%" alt="" />
+[LinkedIn](https://www.linkedin.com/in/yagofaragecalomino/) · [Portfolio](https://yagocalomino.github.io) · yagofaragecalomino@gmail.com
