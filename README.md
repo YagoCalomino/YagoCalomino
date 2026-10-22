@@ -7,10 +7,9 @@ a healthcare software company. Postgraduate student in Data Engineering. I build
 pipelines that turn messy public-health data into dimensional models people can query.
 
 **Featured: [HealthLens](https://github.com/YagoCalomino/HealthLens)** — ETL over Brazil's
-DataSUS microdata (SIM, SIH, SINAN: 13M+ notifications), PostgreSQL star schema,
+DataSUS microdata (SIM, SIH, SINAN: 9.2M+ notifications), PostgreSQL star schema,
 offline forecasting and clustering, FastAPI + React dashboard. [Live demo](https://health-lens-virid.vercel.app)
 
-**In progress: FAERS pharmacovigilance pipeline** — Airflow + dbt + DuckDB, BigQuery as second target.
 
 **Stack**
 - Data: SQL (PostgreSQL, Oracle, Firebird), Python, pandas, Power BI (DAX/Power Query)
