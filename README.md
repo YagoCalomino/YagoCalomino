@@ -6,7 +6,7 @@ SQL/BI work on production databases (PostgreSQL, Oracle, Firebird) at Medilab Si
 a healthcare software company. Postgraduate student in Data Engineering. I build
 pipelines that turn messy public-health data into dimensional models people can query.
 
-**Featured: [HealthLens](https://github.com/YagoCalomino/HealthLens)** — ETL over Brazil's
+**Featured: [HealthLens](https://github.com/YagoCalomino/HealthLens)**  ETL over Brazil's
 DataSUS microdata (SIM, SIH, SINAN: 9.2M+ notifications), PostgreSQL star schema,
 offline forecasting and clustering, FastAPI + React dashboard. [Live demo](https://health-lens-virid.vercel.app)
 
